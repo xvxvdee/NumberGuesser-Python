@@ -6,8 +6,10 @@
 - Python
 
 ## Installation
- Download python file and run in command line
-
+- Download files
+- Go to command line
+- After directing the command line to the folder
+  - Enter "python NumberGuesser.py" in the command line
 ## Visuals
 ![What the command line would look like](https://github.com/xvxvdee/NumberGuesser-Python/blob/master/numberGuesserVisuals.jpg)
  
